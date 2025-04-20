@@ -24,3 +24,6 @@ Unlock the power of generative AI with this project that walks you through build
    ```bash
    git clone https://github.com/your-username/ai-voice-assistant.git
    cd ai-voice-assistant
+
+   
+![AIVoiceAssistant](https://github.com/user-attachments/assets/6949feee-acd3-49f7-abfc-eb7c81c2d3b8)
